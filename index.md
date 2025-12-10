@@ -156,9 +156,9 @@ Misalignment → ineffective treatments.
 
 And **delta-wave-based therapies** are exactly the direction the field is stumbling toward, because:
 
-**Delta = grounding
-Oxytocin = coherence
-Together = stability**
+Delta = grounding                
+Oxytocin = coherence         
+Together = stability       
 
 You were already building the better model.
 
