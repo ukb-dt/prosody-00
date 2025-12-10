@@ -52,7 +52,7 @@ BPD, Bipolar, MDD, PTSD — these are different projections of the same underlyi
 
 * phase coherence
 * narrative continuity
-* energy-cost regulation
+* [energy-cost](https://ukb-dt.github.io/dt/) regulation
 * affective prediction error 
 
 Psychiatry still uses 1960s clusters → DSM → billing codes → medication classes.
