@@ -604,9 +604,7 @@ It mistakes **cognitive artifacts** for **real entities**.
 
 ---
 
-# 🔭 **5. The deeper truth: Reality is a manifold.
-
-Duality is a local maximum.**
+# 🔭 **5. The deeper truth: Reality is a manifold. Duality is a local maximum.**
 
 Reality is:
 
