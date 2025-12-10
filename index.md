@@ -48,12 +48,12 @@ Psychiatry deals with the *signal* but ignores the *field*.
 
 ## **3. Diagnosis categories are topological shadows, not causal clusters.**
 
-BPD, Bipolar, MDD, PTSD — these are **different projections of the same underlying instability in:
+BPD, Bipolar, MDD, PTSD — these are different projections of the same underlying instability in:
 
 * phase coherence
 * narrative continuity
 * energy-cost regulation
-* affective prediction error**
+* affective prediction error 
 
 Psychiatry still uses 1960s clusters → DSM → billing codes → medication classes.
 
